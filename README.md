@@ -5,9 +5,9 @@
 </h1>
 <ul style="list-style: none;">
  <li>🔭: You can find my Portfolio <b>here<b>
- <li>:computer: I’m currently working on <b>Huza project with the aim of connecting employers and Jobseeker in the informal sector</b></li>
- <li>:book: I’m currently Studying on <b>Next JS and Data Analyst</b></li>
- <li>:speech_balloon: Chat with me about: <b>coding</b></li>
+ <li>:computer: I’m currently working on <b>Huza project with the aim of connecting employers and Jobseeker in the informal sector<b></li>
+ <li>:book: I’m currently Studying on <b>Next JS and Data Analyst<b></li>
+ <li>:speech_balloon: Chat with me about: <b>coding<b></li>
  <li>Fun Fact: I Love Car🎨oon</li>
 </ul>
 
