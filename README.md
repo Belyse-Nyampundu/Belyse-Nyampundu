@@ -27,6 +27,7 @@
 ![Figma](http://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma)
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-000000?style=for-the-badge&logo=Adobe%20Illustrator)
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-000000?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=31A8FF&labelColor=000000)
+
 </p>
   <a href="#" title="Trungquandev">
     <img width="480" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belyse-Nyampundu&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=ffffff&text_color=ffffff&icon_color=61dafb&bg_color=000000&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
