@@ -4,7 +4,7 @@
       <h1>Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 </h1>
 <ul style="list-style: none;">
- <li>🔭:You can find my Portfolio<b>here<b>
+ <li>🔭:You can find my Portfolio <b>here<b>
  <li>:computer: I’m currently working on my <b>Huza project with the aim of connecting employers and Jobseeker in the informal sector</b></li>
  <li>:book: I’m currently Studying on <b>Next JS and Data Analyst</b></li>
  <li>:speech_balloon: Chat with me about: <b>coding</b></li>
@@ -35,8 +35,3 @@
     <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belyse-Nyampundu&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=ffffff&text_color=ffffff&icon_color=61dafb&bg_color=000000&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     <br/>
   </a>
-  <a href="#" title="Trungquandev">
-    <img width="900" src="https://github-readme-stats.vercel.app/api?username=Belyse-Nyampundu&show_icons=true&theme=react&title_color=ffffff&bg_color=000000&border_color=ffffff&hide_border=true" />
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Belyse-Nyampundu&layout=compact)
