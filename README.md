@@ -28,6 +28,9 @@
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-000000?style=for-the-badge&logo=Adobe%20Illustrator)
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-000000?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=31A8FF&labelColor=000000)
 </p>
+
+## 🌐 Socials:
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_wanjikode) 
       </td>
      <td>
 <div align=center>
