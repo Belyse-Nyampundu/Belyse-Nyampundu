@@ -10,8 +10,8 @@
   <li>💬 Chat with me about: <b>coding</b></li>
   <li>🎨 Fun Fact: <b>I Love Cartoon</b></li>
 </ul>
-
-# 💻 Tech Stack:
+  
+<p># 💻 Tech Stack:<p>
  ###### PROGRAMMING LANGUAGES | FRAMEWORKS | LIBRARIES | TOOLS </br>
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
