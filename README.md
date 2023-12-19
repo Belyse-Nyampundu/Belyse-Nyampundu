@@ -11,7 +11,7 @@
   <li>🎨 Fun Fact: <b>I Love Cartoon</b></li>
 </ul>
   
-<p># 💻 Tech Stack:<p>
+# 💻 Tech Stack:
  ###### PROGRAMMING LANGUAGES | FRAMEWORKS | LIBRARIES | TOOLS </br>
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
